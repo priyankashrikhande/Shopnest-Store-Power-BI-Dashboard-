@@ -1,4 +1,4 @@
-# 📊 PowerBI_Project_1  
+# 📊 PowerBI Project 
 # **ShopNest E-commerce Retail Analytics Dashboard**
 
 Welcome to the repository for the **ShopNest E-commerce Retail Analytics Dashboard**, built using **Power BI**! 🚀  
