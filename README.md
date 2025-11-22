@@ -2,7 +2,7 @@
 # **ShopNest Store Analytics Dashboard**
 
 Welcome to the repository for the **ShopNest Store Analytics Dashboard**, built using **Power BI**! 🚀  
-This project provides an end-to-end analytical view of ShopNest’s retail performance using real-world e-commerce datasets from Portugal.
+This project provides an end-to-end analytical view of ShopNest’s retail performance using datasets from Portugal.
 
 ---
 
@@ -13,7 +13,7 @@ This Power BI dashboard delivers a **comprehensive analysis of key business metr
 The dashboard answers critical business questions such as:
 
 - **Top Categories by Total Sales**  
-- **Delayed Orders Analysis**  
+- **Gross Profit Analysis**  
 - **Monthly Comparison of Delayed & On-Time Orders**  
 - **Payment Method Preferences**  
 - **Product Rating (Top 10 & Bottom 10)**  
@@ -103,13 +103,12 @@ This dashboard reveals several high-value business insights, including:
 3. Interact with slicers, buttons, filters & drill-through pages  
 4. Explore dynamic charts, maps, KPIs, and trend visuals  
 5. Review the PDF report for complete analytical findings  
-6. (Optional) **Publish to Power BI Service** to share online
 
 ---
 
 ## 🏁 **Conclusion**
 
-This **ShopNest E-commerce Analytics Dashboard** delivers a holistic view of retail performance, helping business teams:
+This **ShopNest Store Analytics Dashboard** delivers a holistic view of retail performance, helping business teams:
 
 - Improve operational efficiency  
 - Understand customer buying patterns  
@@ -127,6 +126,6 @@ With advanced Power BI features like DAX, drill-through, bookmarks, and Power Qu
 Feel free to connect, raise issues, or suggest improvements.  
 Happy Analyzing! 🎉
 
-**Author**: **Priyanka Shrikhande**
+If you have any questions or feedback, feel free to reach out to me via
 **LinkedIn**: **www.linkedin.com/in/priyanka-shrikhande-486366203**
-**Email**: **priyankasshrikhande@gmail.com**  
+
